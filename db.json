@@ -4,7 +4,21 @@
     "price": "Rp. 100.000",
     "description": "ini product terbaru"
   },
-  "product-resource": {
-		"name": "test"
-	}
+	"products" : [
+			{
+				"name": "Baling-baling",
+				"price": "Rp. 100.000",
+				"description": "ini product terbaru"
+			},
+			{
+				"name": "Baling-baling2",
+				"price": "Rp. 200.000",
+				"description": "ini product terbaru 2"
+			},
+			{
+				"name": "Baling-baling3",
+				"price": "Rp. 300.000",
+				"description": "ini product terbaru 3"
+			}
+		]
 }
