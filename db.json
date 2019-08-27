@@ -1,24 +1,81 @@
 {
-  "product-detail": {
-    "name": "Baling-baling",
-    "price": "Rp. 100.000",
-    "description": "ini product terbaru"
-  },
-	"products" : [
-			{
-				"name": "Baling-baling",
-				"price": "Rp. 100.000",
-				"description": "ini product terbaru"
-			},
-			{
-				"name": "Baling-baling2",
-				"price": "Rp. 200.000",
-				"description": "ini product terbaru 2"
-			},
-			{
-				"name": "Baling-baling3",
-				"price": "Rp. 300.000",
-				"description": "ini product terbaru 3"
-			}
-		]
+    "products" : [
+        {
+            "name"          : "Vivo V15 Pro 6/128GB - Topaz Blue",
+            "description"   : "Hp Vivo Terbaru",
+            "image_url"     : "https://www.axiqoe.com/product/image/large/1000036225_1.jpg",
+            "price"         : 4500000,
+            "item_no"       : "1000036225"
+        },
+        {
+            "name"          : "Vivo V11i 4/64GB - Starry Black",
+            "description"   : "Hp Vivi masa kini",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000036229_1.png",
+            "price"         : 3599999,
+            "item_no"       : "1000036229"
+        },
+        {
+            "name"          : "Vivo V11i 4/64GB - Fairy Pink",
+            "description"   : "Hp Vivo Terbaru Pinky",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000036230_1.png",
+            "price"         : 3699000,
+            "item_no"       : "1000036230"
+        },
+        {
+            "name"          : "Sharp TV 40 Inch 40SA5100I + Flash Disk 16GB",
+            "description"   : "Tv Terbaru",
+            "image_url"     : "https://www.axiqoe.com/product/image/large/1000038167_1.jpg",
+            "price"         : 2999000,
+            "item_no"       : "1000036225"
+        },
+        {
+            "name"          : "OPPO F11 4/128GB - Flourite Purple",
+            "description"   : "Oppo mantap betul",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000035643_1.png",
+            "price"         : 3999000,
+            "item_no"       : "1000035643"
+        },
+        {
+            "name"          : "Vivo V15 Pro 6/128GB - Topaz Blue",
+            "description"   : "Hp Vivo Terbaru",
+            "image_url"     : "https://www.axiqoe.com/product/image/large/1000036225_1.jpg",
+            "price"         : 4500000,
+            "item_no"       : "1000036225"
+        },
+        {
+            "name"          : "Vivo V11i 4/64GB - Starry Black",
+            "description"   : "Hp Vivi masa kini",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000036229_1.png",
+            "price"         : 3599999,
+            "item_no"       : "1000036229"
+        },
+        {
+            "name"          : "Vivo V11i 4/64GB - Fairy Pink",
+            "description"   : "Hp Vivo Terbaru Pinky",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000036230_1.png",
+            "price"         : 3699000,
+            "item_no"       : "1000036230"
+        },
+        {
+            "name"          : "Sharp TV 40 Inch 40SA5100I + Flash Disk 16GB",
+            "description"   : "Tv Terbaru",
+            "image_url"     : "https://www.axiqoe.com/product/image/large/1000038167_1.jpg",
+            "price"         : 2999000,
+            "item_no"       : "1000036225"
+        },
+        {
+            "name"          : "OPPO F11 4/128GB - Flourite Purple",
+            "description"   : "Oppo mantap betul",
+            "image_url"     : "https://www.axiqoe.com/product/image/medium/1000035643_1.png",
+            "price"         : 3999000,
+            "item_no"       : "1000035643"
+        },
+     ],
+    "product-detail" : {
+            "name"          : "Vivo V15 Pro 6/128GB - Topaz Blue",
+            "description"   : "Hp Vivo Terbaru",
+            "image_url"     : "https://www.axiqoe.com/product/image/large/1000036225_1.jpg",
+            "price"         : 4500000,
+            "item_no"       : "1000036225"
+        }    
 }
