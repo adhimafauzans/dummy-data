@@ -3,5 +3,13 @@
     "name": "Baling-baling",
     "price": "Rp. 100.000",
     "description": "ini product terbaru"
-  }
+  },
+  "products" : [
+    {
+      "name": "test" 
+    },
+    {
+      "name": "tes2" 
+    }
+  ]
 }
